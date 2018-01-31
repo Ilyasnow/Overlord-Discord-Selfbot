@@ -1,8 +1,8 @@
 # Overlord Bot
-An alert selfbot (script running on non-bot account) for Discordapp. Made by me, using `python.py` by Rapptz, to ease some tedious tasks I've encountered during my moderatorship of Equestria Daily discord server.
+An alert selfbot (script running on non-bot account) for Discordapp. Made by me, using `discord.py` by Rapptz, to ease some tedious tasks I've encountered during my moderatorship of Equestria Daily discord server.
 
-You need [python.py](https://github.com/Rapptz/discord.py) and *probably* [python itself](https://www.python.org/downloads/) to run this.
-Follow all the steps for installing `python.py` carefully.
+You need [discord.py](https://github.com/Rapptz/discord.py) and *probably* [python itself](https://www.python.org/downloads/) to run this.
+Follow all the steps for installing `discord.py` carefully or you might encounter troubles along your way to **rejecting your humanity**.
 
 ## Features
 This bot made **only** for notification purposes. It doesn't do anything except notifications, because I don't turst these metal brains.
