@@ -7,13 +7,13 @@ Follow all the steps for installing `python.py` carefully.
 ## Features
 This bot made **only** for notification purposes. It doesn't do anything except notifications, because I don't turst these metal brains.
 Notification of:
--people joining/leaving
--possible raids
--use of banned words
--use of oversized pictures
--other bots getting used outside their allowed zone
--friends getting online
--mentions of your name
+- people joining/leaving
+- possible raids
+- use of banned words
+- use of oversized pictures
+- other bots getting used outside their allowed zone
+- friends getting online
+- mentions of your name
 and probably something else that I forgot about.
 
 ## Token
