@@ -21,10 +21,12 @@ You need to get your account token and insert it in the `TOKEN = ""` line.
 To get your token:
 - Press `Ctrl`+`Shift`+`I` in discord.
 - [Go here](https://imgur.com/h3g9uf6) and copy your token. **Don't give this out to anyone! This is basically your password.**
+
 Note: If you change your password or enable/disable two-factor authentication, your token will change.
+
 *Thanks to appu1232 for the screenshot*
 
-To run the bot, you can probably just double click it/run via `cmd`, but there is a chance that you might need to start it by manually putting it into command line for python.
+To run the bot, you can probably just double click it or run via `cmd`, but there is a chance that you might need to start it by manually putting it into command line for python.
 
 ## TODO
 - [ ] Comment the code
