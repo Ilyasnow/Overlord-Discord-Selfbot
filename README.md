@@ -14,7 +14,8 @@ Notification of:
 - other bots getting used outside their allowed zone
 - friends getting online
 - mentions of your name
-and probably something else that I forgot about.
+
+...and probably something else that I forgot about.
 
 ## Token
 You need to get your account token and insert it in the `TOKEN = ""` line.
@@ -27,6 +28,8 @@ Note: If you change your password or enable/disable two-factor authentication, y
 *Thanks to appu1232 for the screenshot*
 
 To run the bot, you can probably just double click it or run via `cmd`, but there is a chance that you might need to start it by manually putting it into command line for python.
+
+To stop it, issue a stop command by pressing `Ctrl+C` in the cmd window.
 
 ## TODO
 - [ ] Comment the code
